@@ -98,14 +98,6 @@ function About() {
 							<h4>{work.title}</h4>
 						</motion.li>
 						))}
-						{/* <li>
-							<img src={Portfolio2} alt="" />
-							<h4>Marketplace App</h4>
-						</li>
-						<li>
-							<img src={Portfolio3} alt="" />
-							<h4>Landing Page</h4>
-						</li> */}
 					</ul>
 				</div>
 			</div>
