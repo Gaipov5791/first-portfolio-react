@@ -1,2 +1,2 @@
-Add pagination in Blog Page
+Finished first-portfolio-react project
 
