@@ -1,6 +1,6 @@
 import { Routes, Route} from "react-router-dom";
 
-import { Navbar } from "./components";
+import { Navbar, Footer } from "./components";
 import { Home, About, Blog, Contacts, Notfound } from "./Pages";
 
 
@@ -22,6 +22,9 @@ function App() {
 				<Route path="*" element={<Notfound />}></Route>
 		    </Routes>
       </main>
+      <footer>
+        <Footer></Footer>
+      </footer>
       
     </div>
   );
